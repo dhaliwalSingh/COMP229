@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08f44751-4436-4f09-8a6a-aebf2c38394e" name="Changes" comment="" />
+    <list default="true" id="08f44751-4436-4f09-8a6a-aebf2c38394e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/index.server.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/index.server.routes.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Assignment1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -38,7 +42,7 @@
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "20.6.0",
     "javascript.nodejs.core.library.typings.version": "20.6.0",
-    "last_opened_file_path": "D:/Semester 3/Assignment1",
+    "last_opened_file_path": "D:/Semester 3/WebApplicationDevelopment/WEEK 4",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,6 +75,10 @@
       <workItem from="1696278025263" duration="8267000" />
       <workItem from="1696299057166" duration="1487000" />
       <workItem from="1696365669986" duration="12476000" />
+      <workItem from="1696384739749" duration="29000" />
+      <workItem from="1696386347473" duration="141000" />
+      <workItem from="1696793773518" duration="30000" />
+      <workItem from="1697488733859" duration="12000" />
     </task>
     <servers />
   </component>
